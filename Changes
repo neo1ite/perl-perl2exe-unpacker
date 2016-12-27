@@ -1,0 +1,6 @@
+Revision history for Perl extension Perl2Exe::Unpacker.
+
+0.01  Tue Dec 27 23:42:47 2016
+	- original version; created by h2xs 1.23 with options
+		-X Perl2Exe::Unpacker
+

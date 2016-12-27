@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Perl2Exe-Unpacker.t
+lib/Perl2Exe/Unpacker.pm
